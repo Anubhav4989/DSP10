@@ -1,5 +1,4 @@
-# Enhancing Supply Chain Decision-Making and Strategic Planning  
-### Using Machine Learning and Neural Networks
+# Enhancing Supply Chain Decision-Making and Strategic Planning using Machine Learning and Neural Networks
 
 **By:** Anubhav Kumar Tiwary  
 **PRN:** 2301208039  
